@@ -1,0 +1,166 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "productName": "ROLEX DAYTONA",
+      "description": "The emblematic style and superlative performance of the Oyster Perpetual Cosmograph Daytona have cemented its iconic status well beyond the motor racing circuits.",
+      "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126506-0001_modelpage_front_facing_landscape.png",
+      "IDNprice": "Rp.616.000.000",
+      "USAprice": "$41.980,30",
+      "Diameter" : "40 mm",
+      "Material" : "Platinum",
+      "Water Resistance" : "100 M/ 330 feet",
+      "Reference" : "1265006",
+      "Bracelet" : "Jubilee, five-piece links"
+    },
+    {
+      "id": 2,
+      "productName": "ROLEX SUBMARINER",
+      "description": "Launched in 1953, the Rolex Submariner is the first divers’ wristwatch to be waterproof to a depth of 100 metres (330 feet) – now 300 metres (1,000 feet).",
+      "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126619lb-0003_modelpage_front_facing_landscape.png",
+      "IDNprice": "Rp.610.000.000",
+      "USAprice": "$41.571,40",
+      "Diameter" : "41 mm",
+      "Material" : "Oystersteel",
+      "Water Resistance" : "300 M/ 1000 feet",
+      "Reference" : "124060",
+      "Bracelet" : "Jubilee, five-piece links"
+    },
+    {
+      "id": 3,
+      "productName": "ROLEX SEA-DWELLER",
+      "description": "Symbols of the long shared history between Rolex and deep-sea explorers, the Sea-Dweller, Rolex Deepsea and Deepsea Challenge models are ultra-resistant professional divers’ watches. The Sea-Dweller, launched in 1967, is waterproof to a depth of 1,220 metres (4,000 feet) – 610 metres (2,000 feet) originally.",
+      "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126603-0001_modelpage_front_facing_landscape.png",
+      "IDNprice": "Rp.250.000.000",
+      "USAprice": "$17.037,46",
+      "Diameter" : "43 mm",
+      "Material" : "Oystersteel and yellow gold",
+      "Water Resistance" : "1.220 M/ 4000 feet",
+      "Reference" : "126603",
+      "Bracelet" : "Jubilee, five-piece links"
+    },
+    {
+      "id": 4,
+      "productName": "ROLEX 1908",
+      "description": "Elegant, classic and decidedly contemporary, the Perpetual 1908 immortalizes Rolex age-long daring spirit. Inheriting the brand’s historic codes as much as its numerous innovations in watchmaking, the watch marks a new milestone in the brand’s pursuit of excellence. The conception and creation of this new model testify to the Manufactures comprehensive in-house expertise.",
+      "image": "https://www.thetimeplace.co.id/wp-content/uploads/m52508-0006_modelpage_front_facing_landscape.png",
+      "IDNprice": "Rp.340.000.000",
+      "USAprice": "$23.170,94",
+      "Diameter" : "39 mm",
+      "Material" : "18 ct yellow gold",
+      "Water Resistance" : "50 M/ 165 feet",
+      "Reference" : "52508",
+      "Bracelet" : "Leather Strap"
+    },
+    {
+      "id": 5,
+      "productName": "ROLEX GMT-MASTER",
+      "description": "Allowing its wearer to track the progress of time in another time zone, the GMT-Master II highlights our connection to the world. It is now available in two new versions 18 ct yellow gold and yellow Rolesor with a Cerachrom bezel insert in grey and black ceramic, an entirely new colour combination.",
+      "image": "https://www.thetimeplace.co.id/wp-content/uploads/m126719blro-0002_modelpage_front_facing_landscape.png",
+      "IDNprice": "Rp.650.000.000",
+      "USAprice": "$41.980,30",
+      "Diameter" : "40 mm",
+      "Material" : "Yellow Rolesor - combination of Oystersteel and yellow gold",
+      "Water Resistance" : "100 M/ 330 feet",
+      "Reference" : "126713GRNR",
+      "Bracelet" : "Jubilee, five-piece links"
+    },
+    {
+      "id": 6,
+      "productName": "RICHARD MILLE RM67-02",
+      "description": "Skeletonized titanium treated with a black DLC coating with bridges hand-painted in the colors of the German flag, Skeletonized hands with luminescent material, Sapphire crystal and see-through caseback.",
+      "image": "https://imagedelivery.net/lyg2LuGO05OELPt1DKJTnw/d671437b-92ea-461c-10bf-b85139bf5900/public",
+      "IDNprice": "Rp.4.800.000.000,00",
+      "USAprice": "$330.00,00",
+      "Diameter" : "47.25 x 38.70 x 7.80 mm",
+      "Material" : "Quartz TPT® and Carbon TPT®",
+      "Water Resistance" : "30 M",
+      "Reference" : "RM67-02 FQ CA Alexander Zverev",
+      "Bracelet" : "Black textile"
+    },
+    {
+     "id": 7,
+      "productName": "RICHARD MILLE RM11-03",
+      "description": "Sapphire crystal glareproofed on both sides (1.2mm thick). Titanium flange with black galvanic treatment and index filled with an approved luminescent material.",
+      "image": "https://imagedelivery.net/lyg2LuGO05OELPt1DKJTnw/815b252a-ba72-4414-508d-8f60d1ed7d00/public",
+       "IDNprice": "Rp.2.650.000.000,00",
+      "USAprice": "$180.600,00",
+      "Diameter" : "30.25 x 38.45 mm",
+      "Material" : "Glucydur®, 4 arms, moment of inertia 4.8 mg•cm2, angle of lift 53º",
+      "Water Resistance" : "50 M",
+      "Reference" : "RM11-03 RG TI",
+      "Bracelet" : "Black rubber. Titanium double folding buckle."
+    },
+    {
+      "id": 8,
+      "productName": "RICHARD MILLE RM56-02",
+      "description": "Sapphire crystal glareproofed on both sides (1.2mm thick). Titanium flange with black galvanic treatment and index filled with an approved luminescent material.",
+      "image": "https://imagedelivery.net/lyg2LuGO05OELPt1DKJTnw/815b252a-ba72-4414-508d-8f60d1ed7d00/public",
+      "IDNprice": "Rp.52.900.500.000,00",
+      "USAprice": "$360.500.000,00",
+      "Diameter" : "42 mm",
+      "Material" : "Sapphire",
+      "Water Resistance" : "30 M",
+      "Reference" : "RM56-02",
+      "Bracelet" : "Rubber"
+    },
+    {
+      "id": 9,
+      "productName": "HUBLOT BIG BANG",
+      "description": "The true aesthetic signature of the Big Bang Integrated, the integrated bracelet, returns to give the watch its strength.",
+      "image": "https://www.hublot.com/sites/default/files/styles/watch_item_desktop_1x_scale_no_crop_600_6000_/public/2023-03/Big-Bang-Integrated-Time-Only-Black-Magic-40-mm-soldier.png?itok=HKsvmU4u",
+      "IDNprice": "Rp.118.500.000,00",
+      "USAprice": "$8,070",
+      "Diameter" : "40 mm",
+      "Material" : "Satin-finished and Polished Black Ceramic with 6 H-shaped Titanium Screws",
+      "Water Resistance" : "100 M",
+      "Reference" : "456.CX.0170.CX",
+      "Bracelet" : "Ceramic Bracelet"
+    },
+    {
+      "id": 13,
+      "productName": "ROLEX SKY-DWELLER",
+      "description": "With its two time zones and its annual calendar, the Sky-Dweller is an elegant and trusted companion for world travellers.",
+      "image": "https://www.thetimeplace.co.id/wp-content/uploads/m336239-0002_modelpage_front_facing_landscape.png",
+      "IDNprice": "Rp.644,850,500,00",
+      "USAprice": "$8,070",
+      "Diameter" : "42 mm",
+      "Material" : "18 ct white gold",
+      "Water Resistance" : "100 metres / 330 feet",
+      "Reference" : "336239",
+      "Bracelet" : "Oysterflex"
+    }
+  ],
+  "Brands": [
+    {
+      "id": 10,
+      "brandName": "Rolex",
+      "brandLogo": "https://github.com/Daffahakim23/nyoba/blob/main/rolex.png?raw=true"
+    },
+    {
+      "id": 20,
+      "brandName": "Audemars Piguet",
+      "brandLogo" : "https://specials-images.forbesimg.com/imageserve/631a3f631aa6ae0d6ad7038c/400x0.jpg?cropX1=753&cropX2=1294&cropY1=379&cropY2=920"
+    },
+    {
+      "id": 30,
+      "brandName": "Patek Phillipe",
+      "brandLogo": "https://trackoftimeblog.files.wordpress.com/2018/03/patek-logo.jpg?w=253&h=253"
+    },
+    {
+      "id": 40,
+      "brandName": "Tag Heuer",
+      "brandLogo": "https://github.com/Daffahakim23/nyoba/blob/main/tag.png?raw=true"
+    },
+    {
+      "id": 50,
+      "brandName": "Hublot",
+      "brandLogo": "https://github.com/Daffahakim23/nyoba/blob/main/hublot.png?raw=true"
+    },
+    {
+      "id": 60,
+      "Brandname": "Omega",
+      "brandLogo": "https://github.com/Daffahakim23/nyoba/blob/main/omega.png?raw=true"
+    }
+  ]
+}
