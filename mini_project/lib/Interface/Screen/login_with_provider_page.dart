@@ -11,21 +11,24 @@ class LoginPageScreenWithProvider extends StatelessWidget {
     final loginProvider = Provider.of<LoginProvider>(context);
     return Scaffold(
       appBar: AppBar(
-        centerTitle: true,
-        title: const Text('Login Page'),
+        title: const Text('Login'),
+        backgroundColor: Colors.transparent,
       ),
+      extendBodyBehindAppBar: true,
       resizeToAvoidBottomInset: false,
-      backgroundColor: Colors.white,
-      body: SafeArea(
+      body: Container(
+        decoration: const BoxDecoration(
+          image: DecorationImage(
+            image: NetworkImage(
+                "https://i.pinimg.com/564x/b7/01/b4/b701b44dcdaaa77ded08cbac502771e9.jpg"),
+            fit: BoxFit.cover,
+          ),
+        ),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             const SizedBox(
               height: 20,
-            ),
-            const Icon(
-              Icons.flutter_dash_sharp,
-              size: 100,
             ),
             Padding(
               padding: const EdgeInsets.all(16.0),
